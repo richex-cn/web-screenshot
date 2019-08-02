@@ -7,6 +7,19 @@
 ![](README_assets/20190802_141950.png)
 
 
+### Install
+
+```
+npm install
+```
+
+or
+
+```
+yarn install
+```
+
+
 ### Use
 
 ```

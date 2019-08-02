@@ -7,6 +7,19 @@ This is a remote screen viewing tool for Windows that looks at the screen displa
 ![](README_assets/20190802_141950.png)
 
 
+### Install
+
+```
+npm install
+```
+
+or
+
+```
+yarn install
+```
+
+
 ### Use
 
 ```
