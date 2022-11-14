@@ -6,24 +6,16 @@ This is a remote screen viewing tool for Windows that looks at the screen displa
 
 ![](README_assets/20190802_141950.png)
 
+### Require
 
-### Install
+- [NodeJS](https://nodejs.org/en/)
+- [pnpm](https://pnpm.io/)
 
-```
-npm install
-```
-
-or
+### Usage
 
 ```
-yarn install
-```
-
-
-### Use
-
-```
-node index.js
+$ pnpm i
+$ npm run start
 ```
 
 Run above command, Then open `http://localhost:2333/` in your browser.

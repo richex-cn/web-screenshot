@@ -6,24 +6,16 @@
 
 ![](README_assets/20190802_141950.png)
 
+### 依赖
 
-### Install
+- [NodeJS](https://nodejs.org/en/)
+- [pnpm](https://pnpm.io/)
 
-```
-npm install
-```
-
-or
+### 使用
 
 ```
-yarn install
-```
-
-
-### Use
-
-```
-node index.js
+$ pnpm i
+$ npm run start
 ```
 
 运行以上命令，然后在浏览器中打开 `http://localhost:2333/`
