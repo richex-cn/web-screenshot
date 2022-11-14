@@ -1,4 +1,13 @@
 {
+  "name": "web-screenshot",
+  "version": "1.0.0",
+  "description": "Remote screen viewing tool for Windows that looks at the screen display without a remote connection.",
+  "homepage": "https://github.com/richex-cn/web-screenshot",
+  "author": {
+    "name": "richex-cn",
+    "email": "i@richex.cn",
+    "url": "https://github.com/richex-cn"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "screenshot-desktop": "^1.9.0"
