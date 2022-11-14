@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Remote screen viewing tool for Windows that looks at the screen display without a remote connection.",
   "homepage": "https://github.com/richex-cn/web-screenshot",
+  "license": "MIT",
   "author": {
     "name": "richex-cn",
     "email": "i@richex.cn",
