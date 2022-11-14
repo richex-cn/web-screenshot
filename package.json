@@ -9,6 +9,9 @@
     "email": "i@richex.cn",
     "url": "https://github.com/richex-cn"
   },
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "screenshot-desktop": "^1.9.0"
